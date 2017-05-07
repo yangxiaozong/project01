@@ -1,8 +1,7 @@
 package demo;
 
 public class Demo {
-	public String getName(){
-		System.out.println("≤‚ ‘1234");
-		return null;
+	public static void main(String[] args) {
+		
 	}
 }
